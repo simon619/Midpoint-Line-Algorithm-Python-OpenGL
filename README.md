@@ -30,4 +30,4 @@ Requirment:
 
 Output Screenshot:
 -------------
-![](image/Midpoint_Circle_Algorithm.png)
+![](image/Screenshot%202022-03-19%20195427.png)
